@@ -3,10 +3,13 @@
 Programa muy simple que nos permite a través de la consola recordar cuál fue el último videojuego que nos terminamos.
 
 <h3> Menú </h3> <hr>
-Lo primero que nos aparecerá será un menú de selección en el que podremos elegir 3 opciones. <br>
+Lo primero que nos aparecerá será un menú de selección en el que podremos elegir 3 opciones en nuestro recordatorio. <br>
 · Añadir último videojuego terminado. <br>
 · Ver último videjuego acabado. <br>
 · Salir. <br>
+
+![](images/menu.png)
+
 
 
 
