@@ -6,7 +6,7 @@ Programa muy simple que nos permite a través de la consola recordar cuál fue e
 Lo primero que nos aparecerá será un menú de selección en el que podremos elegir 3 opciones en nuestro recordatorio. <br>
 · Añadir último videojuego terminado. <br>
 · Ver último videjuego acabado. <br>
-· Salir. <br>
+· Salir. <br><br>
 
 ![](images/menu.png)
 
