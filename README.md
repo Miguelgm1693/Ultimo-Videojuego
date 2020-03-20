@@ -1,4 +1,4 @@
-<h1> Ultimo-Videojuego </h1>
+<h1> Último-Videojuego </h1>
 <h3> Descripción </h3> <hr>
 Programa muy simple que nos permite a través de la consola recordar cuál fue el último videojuego que nos acabamos.
 
@@ -20,7 +20,14 @@ La opción nº2 nos mostrará en nombre del videojuego que hayamos introducido a
 
 ![](images/2.png)
 
+<h3> Errores </h3> <hr>
+Uno de los problemas que nos podemos encontrar en la aplicación es que no nos muestre el nombre del videojuego que hemos introducido por teclado, ya sea porque no ha encontrado el fichero ó porque no es capaz de leer el fichero. <br><br>
 
+![](images/3.png)
+
+Otro de los errores que nos puede aparecer es al introducir una de las opciones del menú, en este caso he introducido "4" y directamente el programa te da el error de que la opción introducida no es la correcta.
+
+![](images/4.png)
 
 
 
